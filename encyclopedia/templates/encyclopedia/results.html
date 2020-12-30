@@ -1,0 +1,28 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Search Results
+{% endblock %}
+
+{% block body %}
+    <h1>Search Results</h1>
+    <br>
+    <h2>You searched for "{{ search_term }}".</h2>
+    <br>
+
+    {% if num_matches == 0 %}
+        Sorry, there weren't any similar matches! Try a different search or create a new entry.
+    {% else %}
+        There wasn't an exact match, but we looked for some similar entries.
+        <ul>
+        
+        {% for entry in entries %}
+            <li><a href="/wiki/{{ entry }}">{{ entry }}</a></li>
+        {% endfor %}
+        </ul>
+    
+    {% endif %}
+
+    </ul>
+
+{% endblock %}

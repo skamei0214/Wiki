@@ -1,0 +1,5 @@
+# Piglet
+
+The domestic pig (Sus scrofa domesticus or only Sus domesticus), often called swine, hog, or simply pig when there is no need to distinguish it from other pigs, is a large, domesticated, even-toed ungulate. It is variously considered a subspecies of the Eurasian boar or a distinct species. The domestic pig's head-plus-body length ranges from 0.9 to 1.8 m (35 to 71 in), and adult pigs typically weigh between 50 and 350 kg (110 and 770 lb), with well-fed individuals often exceeding this weight range. The size and weight of hogs largely depends on their breed. Compared to other artiodactyls, a pig's head is relatively long, pointed, and free of warts. Most even-toed ungulates are herbivorous, but domestic pigs are omnivores, like their wild relative.
+
+When used as livestock, domestic pigs are farmed primarily for the consumption of their flesh, called pork. A group of pigs is called a passel, a team, or a sounder. The animal's bones, hide, and bristles are also used in products. Domestic pigs, especially miniature breeds, are kept as pets.

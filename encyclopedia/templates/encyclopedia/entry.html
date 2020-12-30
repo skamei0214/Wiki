@@ -1,0 +1,13 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    {{ entry_title }}   
+{% endblock %}
+
+{% block body %}
+    {{ entry_body|safe }}
+
+    <!-- Allow user to edit page -->
+    <a href="/wiki/edit/{{ entry_title }}"><button type="submit" class="btn btn-secondary">Edit Entry</button></a>
+    
+{% endblock %}
